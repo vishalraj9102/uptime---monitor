@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+psycopg2-binary
+Flask-Migrate
+celery
+redis
+requests  # For making HTTP requests
+python-dotenv  # For loading environment variables
+pytest  # For testing
+mock  # For mocking in tests

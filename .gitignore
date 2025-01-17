@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+*.pyc
+*.pyo
+
+# Flask instance folder
+instance/
+
+# Flask config
+config.py
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# Coverage reports
+.coverage
+*.cover
+*.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables file
+.env
